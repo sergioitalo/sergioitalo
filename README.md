@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Sérgio Ítalo
 
-<!--
-**sergioitalo/sergioitalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Atualmente sou estudante de **Desenvolvimento Web Full Stack**, sempre em busca de evoluir e construir soluções modernas para a web.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias que estou aprendendo e utilizando
+[![icone do JS](https://img.icons8.com/?size=40&id=108784&format=png&color=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![icone do node JS](https://img.icons8.com/?size=40&id=54087&format=png&color=000000)](https://nodejs.org/pt)
+[![icone do react](https://img.icons8.com/?size=40&id=asWSSTBrDlTW&format=png&color=000000)](https://react-dev.translate.goog/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc&_x_tr_hist=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projetos
+Ainda estou construindo meus primeiros projetos, mas em breve irei publicá-los aqui no GitHub. Fique à vontade para acompanhar minha evolução! 🚧
+
+## ☕ Sobre mim
+- ✈️ Apaixonado por viajar  
+- 🚵‍♂️ Pratico mountain bike  
+- ☕ Amante de um bom café  
+
+## 📫 Como falar comigo
+- **Email:** sergioitalo.network@gmail.com  
+- **LinkedIn:** em breve
